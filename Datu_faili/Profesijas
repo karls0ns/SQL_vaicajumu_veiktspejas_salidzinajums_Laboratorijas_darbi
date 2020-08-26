@@ -1,0 +1,243 @@
+"PROF_ID","PROFESIJA","NODARBINATIBA","ALGA"
+1,"Accounting Assistant II","Daily",2000
+2,"Administrative Officer","Yearly",1000
+3,"Automation Specialist I","Seldom",4000
+4,"Cost Accountant","Seldom",900
+5,"Desktop Support Technician","Yearly",2000
+6,"Developer III","Once",3000
+7,"Geologist II","Weekly",1000
+8,"Health Coach IV","Daily",400
+9,"Help Desk Technician","Once",2000
+10,"Marketing Assistant","Seldom",800
+11,"Office Assistant III","Once",5000
+12,"Programmer Analyst III","Seldom",2000
+13,"Registered Nurse","Seldom",2000
+14,"Research Assistant IV","Often",3000
+15,"Research Nurse","Yearly",3000
+16,"Sales Representative","Often",500
+17,"Senior Cost Accountant","Often",3000
+18,"Software Test Engineer III","Monthly",2000
+19,"Staff Accountant IV","Often",5000
+20,"Systems Administrator II","Often",5000
+21,"Systems Administrator IV","Weekly",4000
+22,"Web Designer IV","Weekly",3000
+23,"Ambulatory Nurse","Monthly",3000
+24,"Banker","Yearly",3000
+25,"Bellman","Never",500
+26,"Clerk","Yearly",3000
+27,"Dentist","Yearly",4000
+28,"HR Specialist","Never",4000
+29,"IT Support Staff","Never",1000
+30,"Laboratory Technician","Seldom",3000
+31,"Physician","Weekly",3000
+32,"Treasurer","Weekly",4000
+33,"Account Representative III","Never",3000
+34,"Account Representative IV","Yearly",5000
+35,"Accountant II","Daily",2000
+36,"Database Administrator I","Monthly",3000
+37,"Developer II","Seldom",1000
+38,"Director of Sales","Never",900
+39,"Engineer III","Monthly",1000
+40,"Executive Secretary","Seldom",2000
+41,"Geological Engineer","Monthly",4000
+42,"Geologist I","Yearly",2000
+43,"Health Coach I","Once",600
+44,"Programmer Analyst II","Monthly",4000
+45,"Safety Technician II","Once",5000
+46,"Senior Sales Associate","Never",2000
+47,"Software Consultant","Seldom",4000
+48,"Speech Pathologist","Never",5000
+49,"Staff Accountant I","Daily",2000
+50,"Statistician IV","Monthly",5000
+51,"VP Marketing","Once",2000
+52,"Web Designer I","Once",3000
+53,"Budget Analyst","Never",2000
+54,"Cook","Daily",4000
+55,"Doctor","Never",600
+56,"Food Technologist","Monthly",5000
+57,"Paramedic","Never",1000
+58,"Restaurant Manager","Weekly",3000
+59,"Retail Trainee","Daily",900
+60,"Accounting Assistant III","Often",3000
+61,"Budget/Accounting Analyst II","Seldom",3000
+62,"Compensation Analyst","Yearly",2000
+63,"Computer Systems Analyst III","Often",2000
+64,"Human Resources Assistant III","Never",5000
+65,"Occupational Therapist","Never",1000
+66,"Operator","Monthly",1000
+67,"Professor","Monthly",3000
+68,"Programmer III","Weekly",400
+69,"Project Manager","Once",3000
+70,"Recruiter","Once",900
+71,"Recruiting Manager","Often",2000
+72,"Safety Technician III","Once",2000
+73,"Auditor","Often",3000
+74,"Bookkeeper","Never",3000
+75,"Business Broker","Never",3000
+76,"Call Center Representative","Daily",2000
+77,"Cashier","Never",3000
+78,"Electrician","Often",5000
+79,"Healthcare Specialist","Monthly",4000
+80,"Investment  Advisor","Yearly",400
+81,"Service Supervisor","Daily",1000
+82,"Steward","Weekly",2000
+83,"Account Coordinator","Monthly",5000
+84,"Accountant III","Often",2000
+85,"Accountant IV","Weekly",4000
+86,"Administrative Assistant II","Often",2000
+87,"Database Administrator IV","Once",3000
+88,"Electrical Engineer","Daily",2000
+89,"Engineer IV","Never",1000
+90,"Food Chemist","Yearly",1000
+91,"Health Coach II","Monthly",3000
+92,"Help Desk Operator","Never",3000
+93,"Information Systems Manager","Monthly",4000
+94,"Junior Executive","Seldom",3000
+95,"Librarian","Often",3000
+96,"Media Manager III","Yearly",4000
+97,"Nurse Practicioner","Yearly",2000
+98,"Paralegal","Weekly",4000
+99,"Research Assistant I","Once",1000
+100,"Research Assistant II","Weekly",5000
+101,"Safety Technician I","Yearly",600
+102,"Sales Associate","Once",2000
+103,"Software Engineer II","Once",5000
+104,"Software Test Engineer II","Once",4000
+105,"Software Test Engineer IV","Seldom",2000
+106,"Structural Analysis Engineer","Yearly",5000
+107,"Systems Administrator III","Monthly",4000
+108,"Web Developer I","Never",3000
+109,"Audiologist","Weekly",500
+110,"Cash Manager","Daily",2000
+111,"Executive Director","Daily",900
+112,"Lecturer","Often",3000
+113,"Stockbroker","Yearly",3000
+114,"Webmaster","Weekly",3000
+115,"Administrative Assistant III","Daily",3000
+116,"Administrative Assistant IV","Weekly",800
+117,"Assistant Media Planner","Daily",2000
+118,"Automation Specialist III","Weekly",300
+119,"Biostatistician II","Seldom",4000
+120,"Budget/Accounting Analyst III","Once",900
+121,"Chemical Engineer","Yearly",2000
+122,"Civil Engineer","Weekly",3000
+123,"Computer Systems Analyst II","Daily",5000
+124,"Data Coordiator","Daily",3000
+125,"Engineer I","Monthly",2000
+126,"Financial Analyst","Often",3000
+127,"Geologist III","Daily",3000
+128,"Graphic Designer","Often",600
+129,"Human Resources Assistant IV","Weekly",3000
+130,"Nuclear Power Engineer","Monthly",4000
+131,"Office Assistant II","Never",2000
+132,"Payment Adjustment Coordinator","Once",300
+133,"Programmer IV","Weekly",300
+134,"Quality Control Specialist","Monthly",4000
+135,"Safety Technician IV","Monthly",2000
+136,"Senior Developer","Monthly",4000
+137,"Senior Editor","Never",2000
+138,"Senior Financial Analyst","Yearly",2000
+139,"Software Engineer I","Weekly",5000
+140,"Staff Accountant II","Never",700
+141,"Statistician II","Seldom",700
+142,"Structural Engineer","Never",3000
+143,"Tax Accountant","Seldom",2000
+144,"Technical Writer","Monthly",3000
+145,"VP Accounting","Once",2000
+146,"VP Quality Control","Yearly",5000
+147,"VP Sales","Daily",200
+148,"CNC Operator","Often",3000
+149,"Designer","Seldom",4000
+150,"Production Painter","Once",3000
+151,"Accounting Assistant I","Yearly",5000
+152,"Accounting Assistant IV","Often",1000
+153,"Administrative Assistant I","Never",2000
+154,"Assistant Professor","Daily",5000
+155,"Associate Professor","Often",4000
+156,"Biostatistician III","Yearly",4000
+157,"Computer Systems Analyst I","Never",4000
+158,"Financial Advisor","Seldom",2000
+159,"General Manager","Never",400
+161,"Internal Auditor","Seldom",2000
+162,"Legal Assistant","Seldom",5000
+164,"Office Assistant IV","Never",4000
+165,"Pharmacist","Never",2000
+167,"Programmer Analyst I","Yearly",2000
+168,"Programmer II","Once",4000
+170,"Senior Quality Engineer","Monthly",1000
+171,"Software Test Engineer I","Never",900
+173,"Accountant","Monthly",4000
+175,"Front Desk Coordinator","Yearly",4000
+177,"Software Engineer","Seldom",3000
+178,"Systems Administrator","Yearly",3000
+180,"Accountant I","Seldom",2000
+182,"Assistant Manager","Yearly",2000
+184,"Biostatistician I","Daily",1000
+185,"Biostatistician IV","Never",2000
+186,"Budget/Accounting Analyst I","Daily",2000
+188,"Clinical Specialist","Once",3000
+189,"Community Outreach Specialist","Monthly",1000
+191,"Database Administrator III","Daily",3000
+192,"Dental Hygienist","Yearly",5000
+194,"Developer I","Monthly",1000
+195,"Developer IV","Often",1000
+198,"GIS Technical Architect","Monthly",2000
+199,"Human Resources Manager","Once",900
+201,"Mechanical Systems Engineer","Yearly",1000
+202,"Office Assistant I","Once",2000
+204,"Research Associate","Monthly",2000
+206,"Systems Administrator I","Seldom",2000
+208,"Web Developer IV","Once",800
+209,"Assistant Buyer","Daily",5000
+210,"Baker","Daily",3000
+212,"HR Coordinator","Seldom",1000
+214,"Machine Operator","Often",4000
+216,"Staffing Consultant","Often",3000
+217,"Web Developer","Daily",1000
+219,"Account Representative II","Seldom",1000
+220,"Analog Circuit Design manager","Never",2000
+222,"Budget/Accounting Analyst IV","Weekly",4000
+223,"Business Systems Development Analyst","Weekly",3000
+225,"Engineer II","Often",4000
+226,"Environmental Specialist","Weekly",500
+229,"Programmer Analyst IV","Weekly",4000
+230,"Social Worker","Daily",900
+231,"Software Engineer III","Never",600
+233,"Staff Scientist","Often",2000
+234,"Statistician III","Monthly",400
+236,"Web Designer II","Weekly",4000
+238,"Web Developer III","Never",4000
+239,"Fabricator","Once",600
+241,"Health Educator","Daily",4000
+242,"Inspector","Never",700
+160,"Human Resources Assistant I","Daily",3000
+163,"Media Manager II","Seldom",4000
+166,"Product Engineer","Once",4000
+169,"Research Assistant III","Weekly",5000
+172,"Web Designer III","Yearly",2000
+174,"Chef Manager","Once",3000
+176,"Insurance Broker","Yearly",2000
+179,"Account Executive","Seldom",4000
+181,"Actuary","Seldom",5000
+183,"Automation Specialist IV","Once",3000
+187,"Chief Design Engineer","Once",2000
+190,"Computer Systems Analyst IV","Monthly",4000
+193,"Design Engineer","Monthly",4000
+196,"Editor","Yearly",3000
+197,"Environmental Tech","Seldom",3000
+200,"Marketing Manager","Seldom",3000
+203,"Quality Engineer","Monthly",4000
+205,"Statistician I","Never",3000
+207,"VP Product Management","Weekly",4000
+211,"Biologist","Seldom",1000
+213,"Loan Officer","Seldom",1000
+215,"Mobile Developer","Seldom",1000
+218,"Account Representative I","Weekly",3000
+221,"Analyst Programmer","Seldom",700
+224,"Database Administrator II","Weekly",2000
+227,"Nurse","Daily",4000
+228,"Physical Therapy Assistant","Monthly",2000
+232,"Staff Accountant III","Daily",2000
+235,"Teacher","Often",1000
+237,"Web Developer II","Never",1000
+240,"Global Logistics Supervisor","Monthly",2000
