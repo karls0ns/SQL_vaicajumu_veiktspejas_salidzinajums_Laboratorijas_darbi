@@ -1,2 +1,2 @@
-# SQL-vaic-jumu-veiktsp-jas-sal-dzin-jums-Laboratorijas-darbi
-Labaratorijas darbi veikti pie Profesora J. Eiduka
+# SQL_vaicajumu_veiktspejas_salidzinajums_Laboratorijas_darbi
+# Labaratorijas darbi veikti pie Profesora J. Eiduka
